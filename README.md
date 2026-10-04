@@ -2,6 +2,20 @@
 
 Wanderlust is a full-stack property listing web application where users can explore, create, edit, and delete property listings.
 
+## 📸 Screenshots
+
+### Listings Page
+![Listings Page](screenshots/listings.png)
+
+### Listing Details
+![Listing Details](screenshots/listingDetails.png)
+
+### Create New Listing
+![Create New Listing](screenshots/createNewListing.png)
+
+### Edit Listing
+![Edit Listing](screenshots/editListing.png)
+
 ## 🚀 Features
 
 - View all property listings
